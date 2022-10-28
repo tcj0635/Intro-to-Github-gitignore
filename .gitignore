@@ -1,1 +1,7 @@
 node_modules/
+# User-specific files
+z*.*
+.env
+
+# Build results - Ignoree all files in these folders
+artifacts/
