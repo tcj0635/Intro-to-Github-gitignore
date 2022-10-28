@@ -4,4 +4,4 @@ z*
 .env
 
 # Build results - Ignoree all files in these folders
-*/artifacts/
+*/artifacts/.
